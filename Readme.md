@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Иван Маметьев](https://up.htmlacademy.ru/javascript/20/user/259715).
-* Наставник: `Неизвестно`.
+* Наставник: `Светлана Блинова`.
 
 ---
 
